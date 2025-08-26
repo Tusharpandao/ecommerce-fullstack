@@ -4,3 +4,6 @@
 [submodule "seller-frontend-app"]
 	path = seller-frontend-app
 	url = https://github.com/Tusharpandao/ecommerce-seller-frontend-app
+[submodule "customer-frontend-app"]
+	path = customer-frontend-app
+	url = git@github.com:Tusharpandao/ecommerce-customer-frontend-app.git
